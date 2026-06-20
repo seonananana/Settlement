@@ -1,0 +1,68 @@
+[2025-12-16 01:14:44] CONNECT addr=('127.0.0.1', 52342)
+[2025-12-16 01:15:00] CONNECT addr=('127.0.0.1', 42790)
+[2025-12-16 01:15:17] LOGIN id=seona addr=('127.0.0.1', 52342)
+[2025-12-16 01:15:20] LOGIN id=nana addr=('127.0.0.1', 42790)
+[2025-12-16 01:20:21] ROOM_JOIN id=seona default -> trip
+[2025-12-16 01:23:16] BR room=trip seona: /안녕
+[2025-12-16 01:23:52] ROOM_JOIN id=nana default -> trip
+[2025-12-16 01:24:21] BR room=trip seona: /안녕
+[2025-12-16 01:26:39] TO seona -> nana: 비밀
+[2025-12-16 01:33:10] EXP_ADD room=trip id=11 user=seona 70000 FOOD 
+[2025-12-16 01:33:32] EXP_ADD room=trip id=12 user=nana 30000 CAFE 
+[2025-12-16 01:33:47] EXP_ADD room=trip id=13 user=seona 2000 ETC 
+[2025-12-16 02:00:53] ROOM_JOIN id=nana trip -> default
+[2025-12-16 02:02:52] LEAVE id=nana room=default addr=('127.0.0.1', 42790)
+[2025-12-16 05:44:12] LEAVE id=seona room=trip addr=('127.0.0.1', 52342)
+[2025-12-16 06:02:46] CONNECT addr=('127.0.0.1', 45560)
+[2025-12-16 06:02:52] CONNECT addr=('127.0.0.1', 45568)
+[2025-12-16 06:04:43] LOGIN id=seona addr=('127.0.0.1', 45568)
+[2025-12-16 06:04:45] LOGIN id=nana addr=('127.0.0.1', 45560)
+[2025-12-16 06:05:00] ROOM_JOIN id=seona default -> trip
+[2025-12-16 06:05:08] ROOM_JOIN id=nana default -> trip
+[2025-12-16 06:05:29] EXP_ADD room=trip id=14 user=seona 70000 FOOD 
+[2025-12-16 06:05:43] EXP_ADD room=trip id=15 user=nana 20000 CAFE 
+[2025-12-16 06:07:01] ROOM_JOIN id=seona trip -> default
+[2025-12-16 06:07:10] LEAVE id=seona room=default addr=('127.0.0.1', 45568)
+[2025-12-16 06:08:29] LEAVE id=nana room=trip addr=('127.0.0.1', 45560)
+[2025-12-16 06:09:14] CONNECT addr=('127.0.0.1', 36172)
+[2025-12-16 06:09:51] CONNECT addr=('127.0.0.1', 55828)
+[2025-12-16 06:10:45] LOGIN id=seona addr=('127.0.0.1', 36172)
+[2025-12-16 06:10:48] LOGIN id=nana addr=('127.0.0.1', 55828)
+[2025-12-16 06:10:57] BR room=default seona: /hi
+[2025-12-16 06:11:17] TO seona -> nana: 안녕
+[2025-12-16 06:11:53] LEAVE id=seona room=default addr=('127.0.0.1', 36172)
+[2025-12-16 06:11:58] LEAVE id=nana room=default addr=('127.0.0.1', 55828)
+[2025-12-16 06:12:19] CONNECT addr=('127.0.0.1', 44028)
+[2025-12-16 06:12:30] CONNECT addr=('127.0.0.1', 42490)
+[2025-12-16 06:13:19] LOGIN id=seona addr=('127.0.0.1', 44028)
+[2025-12-16 06:13:21] LOGIN id=nana addr=('127.0.0.1', 42490)
+[2025-12-16 06:13:27] BR room=default seona: /hi
+[2025-12-16 06:13:33] TO seona -> nana: 안녕
+[2025-12-16 06:13:57] LEAVE id=seona room=default addr=('127.0.0.1', 44028)
+[2025-12-16 06:13:57] LEAVE id=nana room=default addr=('127.0.0.1', 42490)
+[2025-12-16 06:14:07] CONNECT addr=('127.0.0.1', 60566)
+[2025-12-16 06:14:17] CONNECT addr=('127.0.0.1', 41192)
+[2025-12-16 06:15:43] LOGIN id=seona addr=('127.0.0.1', 60566)
+[2025-12-16 06:15:46] LOGIN id=nana addr=('127.0.0.1', 41192)
+[2025-12-16 06:15:49] BR room=default seona: /hi
+[2025-12-16 06:15:56] TO seona -> nana: 안녕?
+[2025-12-16 06:16:05] ROOM_JOIN id=seona default -> happy
+[2025-12-16 06:16:13] ROOM_JOIN id=nana default -> happy
+[2025-12-16 06:16:36] EXP_ADD room=happy id=16 user=seona 70000 FOOD 
+[2025-12-16 06:16:49] EXP_ADD room=happy id=17 user=nana 15000 CAFE 
+[2025-12-16 06:17:36] ROOM_JOIN id=seona happy -> default
+[2025-12-16 06:17:42] LEAVE id=seona room=default addr=('127.0.0.1', 60566)
+[2025-12-16 06:19:30] LEAVE id=nana room=happy addr=('127.0.0.1', 41192)
+[2025-12-16 06:20:51] CONNECT addr=('127.0.0.1', 51218)
+[2025-12-16 06:21:01] CONNECT addr=('127.0.0.1', 56646)
+[2025-12-16 06:21:49] LOGIN id=seona addr=('127.0.0.1', 51218)
+[2025-12-16 06:21:52] LOGIN id=nana addr=('127.0.0.1', 56646)
+[2025-12-16 06:21:55] BR room=default seona: /hi
+[2025-12-16 06:22:01] TO seona -> nana: 안녕?
+[2025-12-16 06:22:10] ROOM_JOIN id=seona default -> apple
+[2025-12-16 06:22:18] ROOM_JOIN id=nana default -> apple
+[2025-12-16 06:22:35] EXP_ADD room=apple id=18 user=seona 75000 FOOD 
+[2025-12-16 06:22:44] EXP_ADD room=apple id=19 user=nana 15000 CAFE 
+[2025-12-16 06:23:18] ROOM_JOIN id=seona apple -> default
+[2025-12-16 06:26:47] LEAVE id=seona room=default addr=('127.0.0.1', 51218)
+[2025-12-16 06:26:48] LEAVE id=nana room=apple addr=('127.0.0.1', 56646)

@@ -1,0 +1,83 @@
+[2025-12-15 10:51:42] ENTER seona room=default
+[2025-12-15 10:52:08] ROOM_JOIN seona -> gey
+[2025-12-15 10:53:21] BR room=gey seona: /exp add
+[2025-12-15 10:53:48] QUIT seona room=gey
+[2025-12-15 10:53:48] LEAVE seona room=gey
+[2025-12-15 15:53:15] ENTER seona room=default
+[2025-12-15 15:53:31] ROOM_JOIN seona -> gay
+[2025-12-15 15:53:45] TO room=gay seona->seona: hi
+[2025-12-15 15:54:27] BR room=gay seona: bal
+[2025-12-15 15:54:58] ENTER nana room=default
+[2025-12-15 15:55:07] TO room=default nana->seona: hi
+[2025-12-15 15:55:25] ROOM_JOIN nana -> gay
+[2025-12-15 16:28:20] ROOM_JOIN seona -> zjath
+[2025-12-15 18:24:10] LEAVE seona room=zjath
+[2025-12-15 18:24:12] LEAVE nana room=gay
+[2025-12-15 18:35:39] ENTER seona room=default
+[2025-12-15 18:35:42] ENTER nana room=default
+[2025-12-15 18:36:18] ENTER loopy room=default
+[2025-12-15 18:36:43] BR room=default seona: / exp
+[2025-12-15 18:37:17] BR room=default seona: exp add 80000  FOO
+[2025-12-15 18:37:48] BR room=default seona: room abx 1234
+[2025-12-15 18:38:10] BR room=default seona: exp
+[2025-12-15 18:38:12] BR room=default seona: f
+[2025-12-15 18:38:27] BR room=default seona: exp add 80000 FOOD
+[2025-12-15 18:38:44] BR room=default nana: exp add
+[2025-12-15 18:38:53] BR room=default nana: exp add 40000 CAFE
+[2025-12-15 18:39:19] BR room=default loopy: [A
+[2025-12-15 18:39:29] BR room=default loopy: exp add 15000 ETC
+[2025-12-15 18:39:38] BR room=default loopy: SETTLE
+[2025-12-15 18:39:43] BR room=default loopy: settle
+[2025-12-15 18:40:31] ROOM_JOIN loopy -> abx
+[2025-12-15 18:40:38] BR room=abx loopy: exp add 15000  ETC
+[2025-12-15 18:41:00] BR room=default seona: room abx 1234
+[2025-12-15 18:41:37] ROOM_JOIN nana -> abx
+[2025-12-15 18:41:49] BR room=abx nana: exp add 40000 CAF
+[2025-12-15 18:42:01] BR room=abx nana: settle
+[2025-12-15 18:43:34] QUIT loopy room=abx
+[2025-12-15 18:43:34] LEAVE loopy room=abx
+[2025-12-15 18:44:01] LEAVE seona room=default
+[2025-12-15 18:44:38] QUIT nana room=abx
+[2025-12-15 18:44:38] LEAVE nana room=abx
+[2025-12-15 18:45:08] ENTER seona room=default
+[2025-12-15 18:45:15] ENTER nana room=default
+[2025-12-15 18:45:22] ENTER loopy room=default
+[2025-12-15 18:45:34] ROOM_JOIN seona -> abc
+[2025-12-15 18:45:51] ROOM_JOIN nana -> abc
+[2025-12-15 18:45:59] ROOM_JOIN loopy -> abc
+[2025-12-15 18:46:09] BR room=abc seona: /add
+[2025-12-15 18:47:12] BR room=abc seona: /
+[2025-12-15 18:48:03] BR room=abc seona: / exp add 80000 FOOD
+[2025-12-15 18:48:21] BR room=abc nana: / /exp add 30000 CAFE
+[2025-12-15 18:48:43] BR room=abc nana: / exp add 30000 CAFE
+[2025-12-15 18:48:56] BR room=abc loopy: / exp add 20000 ETC
+[2025-12-15 18:49:01] BR room=abc seona: EXP LIST
+[2025-12-15 18:49:07] BR room=abc seona: exp list
+[2025-12-15 18:49:19] BR room=abc seona: /
+[2025-12-15 19:07:09] LEAVE seona room=abc
+[2025-12-15 19:07:09] LEAVE nana room=abc
+[2025-12-15 19:07:10] LEAVE loopy room=abc
+[2025-12-15 19:31:29] ENTER seona room=default
+[2025-12-15 19:31:50] ENTER nana room=default
+[2025-12-15 19:32:06] BR room=default seona: room abc 1234
+[2025-12-15 19:32:14] ROOM_JOIN nana -> abc
+[2025-12-15 19:32:33] BR room=default seona: exp add 70000 FOOD
+[2025-12-15 19:32:47] BR room=default seona: / exp add 70000 FOOD
+[2025-12-15 19:33:44] BR room=default seona: .exp list
+[2025-12-15 19:35:19] ROOM_JOIN seona -> abc
+[2025-12-15 19:36:32] TO room=abc seona->nana: hi
+[2025-12-15 19:37:34] BR room=abc seona: / 안녕
+[2025-12-15 19:38:14] ENTER loopy room=default
+[2025-12-15 19:38:44] ROOM_JOIN loopy -> univer
+[2025-12-15 19:39:12] QUIT seona room=abc
+[2025-12-15 19:39:12] LEAVE seona room=abc
+[2025-12-15 19:40:28] ENTER seona room=default
+[2025-12-15 19:40:38] ROOM_JOIN seona -> univer
+[2025-12-15 19:41:44] ENTER susu room=default
+[2025-12-15 19:41:57] ROOM_JOIN susu -> univer
+[2025-12-15 19:42:27] QUIT susu room=univer
+[2025-12-15 19:42:27] LEAVE susu room=univer
+[2025-12-15 19:42:33] QUIT seona room=univer
+[2025-12-15 19:42:33] LEAVE seona room=univer
+[2025-12-15 19:42:43] QUIT loopy room=univer
+[2025-12-15 19:42:43] LEAVE loopy room=univer
